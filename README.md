@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Gabriel 👋
 
-<!--
-**grabreu/grabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer (.NET/React) with 6 years of experience, currently building a portfolio of independent projects — each one deliberately different in stack and architecture, instead of the same CRUD app repeated with a new label.
 
-Here are some ideas to get you started:
+**Published so far:**
+- [aduana](https://github.com/grabreu/aduana) — a lightweight, type-safe fetch client for JavaScript/TypeScript, published to npm
+- [desfecho](https://github.com/grabreu/desfecho) — a functional `Result<TValue>` pattern for .NET, published to NuGet
+- [ramus](https://github.com/grabreu/ramus) — a `tree`-style CLI written in Python, published to PyPI
+- [slug-pages](https://github.com/grabreu/slug-pages) — an anonymous scratchpad running entirely on Cloudflare Workers + D1
+- [cram-kit](https://github.com/grabreu/cram-kit) — a Claude Code skill that turns study material into summaries, flashcards, and quizzes
+- [spotify-cli](https://github.com/grabreu/spotify-cli) — an interactive CLI for exporting Spotify playlist data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to remote fullstack/backend roles, in Brazil or internationally.
+
+📫 [LinkedIn](https://www.linkedin.com/in/gabriel-deabreu) · gabriel.roberto.abreu@outlook.com.br
